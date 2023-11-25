@@ -17,7 +17,8 @@
 说明文档：
 https://docs.quantumctek-cloud.com/
 使用地址：
-https://quantumcomputer.ac.cn/index.html
+https://quantumcomputer.ac.cn/index.html 
+需私聊群主，可见“联系我们”节
 2.ChatGPT 国内直联
 地址：https://kamiya.dev
 
