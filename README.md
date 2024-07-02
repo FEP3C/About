@@ -8,7 +8,9 @@
 福州二中Python创意编程社是由福州市第二中学的一群热爱编程和开发的学生组成的技术社团。虽然名字是Python创意编程社，但我们不局限于一种语言和一种项目。我们使用的编程语言有Python、Java、C++、易语言等；各类项目有编程教学、游戏开发、网络攻防、人工智能、编写各种插件脚本等。可以说，计算机软件和互联网前沿科技相关的内容我们都有涉及。
 我们致力于促进校内学生对编程语言，尤其是Python的学习和交流，分享编程经验、项目成果和创意想法，并开发他们对于编程的爱好。
 我们有时会上传我们的创意编程项目。我们上传的项目通常集体署名“福州二中Python创意编程社”，如果有社员想上传自己的项目亦可个人署名。
-社团官网：http://pccc.tech
+社团官网：https://pccc.tech
+下载站：https://pccc.buzz
+社长主页：https://nicolas.pccc.buzz
 
 ## 我们的目标
 
@@ -26,16 +28,17 @@ https://quantumcomputer.ac.cn/index.html
 如果你没有账号，可以寻找社长获取，请见“联系我们”一节
 
 2.AI相关（大陆可用）：
-https://kamiya.dev
+https://tongyi.aliyun.com/qianwen
 https://chatglm.cn
 https://kimi.moonshot.cn
+https://zaiwen.top
 
 
 ## 如何参与
 
 如果你对Python编程有兴趣，欢迎加入我们！你可以通过以下方式参与我们的活动：
 
-- 关注我们的Github账号 [FZEZ-Python-Collaboration](https://github.com/FZEZ-Python-Collaboration) 并在Github上 Star 我们的项目
+- 关注我们的Github账号 [FEP3C](https://github.com/FEP3C) 并在Github上 Star 我们的项目
 - 加入我社QQ群（允许外校人士加入）
 - 提交 Issue 或 Pull Request，分享你的想法和代码
 - 加入我们的线下活动和讨论，与志同道合的小伙伴们交流学习（仅供福州二中学生）
