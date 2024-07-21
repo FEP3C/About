@@ -36,11 +36,11 @@ https://kimi.moonshot.cn
 https://zaiwen.top
 
 3.P社官方网站
-绚烂烟火：https://pccc.tech
-资源下载：https://pccc.buzz
-社长主页：https://nicolas.pccc.buzz
-双重验证：https://2fa.pccc.buzz
-社团新闻：https://fep3c.github.io
+- 绚烂烟火：https://pccc.tech
+- 资源下载：https://pccc.buzz
+- 社长主页：https://nicolas.pccc.buzz
+- 双重验证：https://2fa.pccc.buzz
+- 社团新闻：https://fep3c.github.io
 
 ## 如何参与
 
